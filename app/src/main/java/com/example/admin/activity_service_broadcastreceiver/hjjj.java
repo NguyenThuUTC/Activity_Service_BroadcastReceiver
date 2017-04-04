@@ -5,4 +5,7 @@ package com.example.admin.activity_service_broadcastreceiver;
  */
 
 public class hjjj {
+    void jddj(){
+
+    }
 }
